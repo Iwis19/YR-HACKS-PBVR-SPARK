@@ -2,6 +2,9 @@
 
 Laravel-based academic support platform for students, tutors, teachers, and school administrators. Utilizes database for meeting sessions and assignments.
 
+## Repository Note
+This repository was originally developed under a hackathon team account, because of later updates and restructuring, this version serves as the clean version of the project.
+
 ## Key Features
 1. **Role-Based Access Control**
    - Student, Tutor, Admin, Super Admin roles
